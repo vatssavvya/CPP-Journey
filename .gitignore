@@ -1,5 +1,2 @@
-testing
-a.out
-*.exe
-.DS_Store
-.vscode
+!main.cpp
+!README.md
