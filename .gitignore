@@ -2,3 +2,4 @@ testing
 a.out
 *.exe
 .DS_Store
+.vscode
