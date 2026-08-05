@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "C++ is working perfectly" << std::endl;
+    std::cout << "C++ is working perfectly";
     return 0;
 }
