@@ -4,6 +4,8 @@ using namespace std;
 
 int main() {
     int x = 10;
-    cout << "x = " << x;
+    int y = 5;
+    cout << "x = " << x
+         << "y = " << y;
     return 0; //comments
 }
