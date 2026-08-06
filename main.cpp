@@ -2,7 +2,10 @@
 
 int main() {
     int var1 = 1;
-    double sales = 9.99;
-    std::cout << var1 + sales;
+    int var2 = 3;
+    int temp = var1;
+    int var1 = var2;
+    int var2 = temp;
+    std::cout << var1 + var2;
     return 0;
 }
