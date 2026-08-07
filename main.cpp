@@ -9,5 +9,6 @@ int main() {
          << "y = " << y; */
     int value;
     cin >> value;
+    cout << value;
     return 0; //comments
 }
