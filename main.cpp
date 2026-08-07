@@ -5,7 +5,9 @@ using namespace std;
 int main() {
     int x = 10;
     int y = 5;
-    cout << "x = " << x
-         << "y = " << y;
+    /*cout << "x = " << x
+         << "y = " << y; */
+    int value;
+    cin >> value;
     return 0; //comments
 }
